@@ -1,0 +1,4 @@
+payout_id,tournament_id,organizer_name,payout_date,actual_payout_amount,bank_reference
+PAY-7001,T001,Chennai Chess Club,2023-08-08,8921.00,BANK-TRF-7001
+PAY-7002,T002,Madurai Sports Trust,2023-08-18,5921.00,BANK-TRF-7002
+PAY-7003,T003,Coimbatore Mind Sports,2023-08-25,11050.00,BANK-TRF-7003

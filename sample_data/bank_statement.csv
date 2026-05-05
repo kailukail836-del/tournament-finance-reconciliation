@@ -1,0 +1,5 @@
+bank_date,description,reference,amount,type
+2023-08-08,Organizer payout - Chennai Chess Club,BANK-TRF-7001,8921.00,Debit
+2023-08-18,Organizer payout - Madurai Sports Trust,BANK-TRF-7002,5921.00,Debit
+2023-08-25,Organizer payout - Coimbatore Mind Sports,BANK-TRF-7003,11050.00,Debit
+2023-08-31,PayU settlement batch,UTR-PAYU-BATCH-AUG,27619.64,Credit
